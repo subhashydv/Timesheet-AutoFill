@@ -34,3 +34,6 @@ crontab -e
 everyday at every 20th minute you will see this popup to do the vms entries from 9AM to 6PM on Monday to Friday. You have to agree to it in order to proceed.
 ![popup](./popup.png)
 
+
+**WARNING** Incase your password gets changed, you will be notified and asked for updated password.
+![passwordReset](./passwordReset.png)
