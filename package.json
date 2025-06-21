@@ -1,0 +1,16 @@
+{
+  "name": "vms",
+  "version": "2.0.0",
+  "description": "",
+  "main": "lib/vms.js",
+  "scripts": {
+    "setup": "./setup.sh"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^16.4.1",
+    "taiko": "^1.3.10"
+  }
+}

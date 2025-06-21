@@ -1,0 +1,4 @@
+node_modules/
+.env
+vms.tar.gz
+logfile
